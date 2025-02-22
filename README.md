@@ -4,10 +4,9 @@ Welcome to my personal portfolio! 🚀 This project showcases my skills, project
 
 ## 🔥 Preview
 
-![Portfolio Screenshot](https://i.ibb.co/RtQbCS9/Screenshot-2025-02-23-023736.png)  
-![Portfolio Screenshot](https://i.ibb.co/MD8thHvN/Screenshot-2025-02-23-023749.png)  
+
 <!-- Or use a GIF -->
-![Portfolio Demo]("C:\Users\sumit\Downloads\ScreenRecording2025-02-23023113-ezgif.com-video-to-gif-converter.gif")
+![Image](https://github.com/user-attachments/assets/1db05b31-efbf-444b-81e1-bc2d2c2d9769)
 
 ## 🚀 Features
 
@@ -26,9 +25,5 @@ Welcome to my personal portfolio! 🚀 This project showcases my skills, project
 
 Add screenshots or a GIF of your portfolio to showcase it. Place them in the `assets/` folder and update the file paths in this README.
 
-## 📂 Installation & Setup
-
-```bash
-git clone https://github.com/yourusername/your-portfolio.git
-cd your-portfolio
-# Open index.html or run using your preferred method
+![Portfolio Screenshot](https://i.ibb.co/RtQbCS9/Screenshot-2025-02-23-023736.png)  
+![Portfolio Screenshot](https://i.ibb.co/MD8thHvN/Screenshot-2025-02-23-023749.png)  
