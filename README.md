@@ -17,7 +17,7 @@ Welcome to my personal portfolio! 🚀 This project showcases my skills, project
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript (or Flutter if it's an app)  
+- **Frontend:** HTML, CSS, JavaScript   
 - **Backend:** (Add if applicable)  
 - **Other:** (Mention any other tools like Firebase, AWS, etc.)  
 
